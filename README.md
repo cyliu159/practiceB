@@ -1,1 +1,5 @@
 # practice
+=============
+*   Red
+*   Green
+*   Blue
